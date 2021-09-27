@@ -378,7 +378,7 @@ def main():
                                 counterTurn = 0
                                 count = 10
                     
-            if event.type == QUIT:  
+            if event.type == QUIT:
                 pygame.quit()       
                 sys.exit()
                 
